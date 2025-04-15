@@ -7,22 +7,22 @@ Welcome to my GitHub repository! This project contains a collection of basic alg
 ## 📁 File Overview
 
 ### 🔢 Sorting Algorithms
-- `counting_sort.py`: Python implementation of the Counting Sort algorithm.
-- `counting_sort.java`: Java version of the Counting Sort algorithm.
+- [`counting_sort.py`](https://github.com/Lohitha-Sai919/<repo-name>/blob/main/counting_sort.py): Python implementation of the Counting Sort algorithm.
+- [`counting_sort.java`](https://github.com/Lohitha-Sai919/<repo-name>/blob/main/counting_sort.java): Java version of the Counting Sort algorithm.
 
 ### 🔍 Searching Algorithms
-- `BINARY_SEARCH.PY`: Python implementation of Binary Search.
-- `breath_first_search.py`: Breadth First Search (BFS) traversal algorithm in Python.
+- [`BINARY_SEARCH.PY`](https://github.com/Lohitha-Sai919/<repo-name>/blob/main/BINARY_SEARCH.PY): Python implementation of Binary Search.
+- [`breath_first_search.py`](https://github.com/Lohitha-Sai919/<repo-name>/blob/main/breath_first_search.py): Breadth First Search (BFS) traversal algorithm in Python.
 
 ### 🔧 Data Structures
-- `queue_using_list.py`: Queue implemented using Python lists.
-- `queueusingstacks.py`: Queue implemented using two stacks.
-- `stackusingqueue.py`: Stack implemented using queues.
+- [`queue_using_list.py`](https://github.com/Lohitha-Sai919/<repo-name>/blob/main/queue_using_list.py): Queue implemented using Python lists.
+- [`queueusingstacks.py`](https://github.com/Lohitha-Sai919/<repo-name>/blob/main/queueusingstacks.py): Queue implemented using two stacks.
+- [`stackusingqueue.py`](https://github.com/Lohitha-Sai919/<repo-name>/blob/main/stackusingqueue.py): Stack implemented using queues.
 
 ### 💻 Other Programs
-- `arrays_operations.java`: Basic array operations in Java.
-- `hello_world.c`: A simple C program that prints "Hello, World!".
-- `Copy of ROV. Seaperch.stl`: A 3D model file, likely for robotics or design work.
+- [`arrays_operations.java`](https://github.com/Lohitha-Sai919/<repo-name>/blob/main/arrays_operations.java): Basic array operations in Java.
+- [`hello_world.c`](https://github.com/Lohitha-Sai919/<repo-name>/blob/main/hello_world.c): A simple C program that prints "Hello, World!".
+- [`Copy of ROV. Seaperch.stl`](https://github.com/Lohitha-Sai919/<repo-name>/blob/main/Copy%20of%20ROV.%20Seaperch.stl): A 3D model file, likely for robotics or design work.
 
 ---
 
@@ -30,4 +30,4 @@ Welcome to my GitHub repository! This project contains a collection of basic alg
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/Lohitha-Sai919/<repo-name>.git
